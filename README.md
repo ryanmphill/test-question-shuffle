@@ -41,6 +41,8 @@ The questions coorespond to the choices and answers by index, so it is necessary
   ```
 
 ## randomizeTest() Function
+
+The `randomizeTest()` function takes in an existing instance of the `Test` class, and returns a new `Test` object with the shuffled questions, choices, and answers arrays.
   
 #### Initial Validation: 
 The function first checks if the test object is provided and it is valid. If the test is not valid, it logs an error message and returns a new Test object with empty arrays.
