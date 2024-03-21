@@ -27,7 +27,7 @@ export class Test {
     }
 
     /** 
-     * Returns true if every answer has a cooresponding choice set AND
+     * Returns true if every choice set has a cooresponding answer set AND
      * every choice has an answer on each set
      * 
      * @returns {Boolean}
